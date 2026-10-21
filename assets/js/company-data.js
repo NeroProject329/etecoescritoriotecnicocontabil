@@ -14,8 +14,8 @@ const COMPANY_DATA = {
     completo: "RUA ENGENHEIRO PORTELA, 222, 6º ANDAR, SALA 603/604, CENTRO, ANÁPOLIS - GO, CEP 75024-100"
   },
   contato: {
-    email: "",
-    emailExibicao: "Não informado",
+    email: "atendimento@etecocontabil.site",
+    emailExibicao: "atendimento@etecocontabil.site",
     telefone: "Não informado",
     telefoneLocal: "Não informado",
     telefoneLink: ""
