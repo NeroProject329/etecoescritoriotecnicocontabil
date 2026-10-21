@@ -16,9 +16,9 @@ const COMPANY_DATA = {
   contato: {
     email: "atendimento@etecocontabil.site",
     emailExibicao: "atendimento@etecocontabil.site",
-    telefone: "Não informado",
-    telefoneLocal: "Não informado",
-    telefoneLink: ""
+    telefone: "(62) 3327-0315",
+    telefoneLocal: "(62) 3327-0315",
+    telefoneLink: "+556233270315"
   },
   legal: {
     ultimaAtualizacao: "20 de outubro de 2026",
